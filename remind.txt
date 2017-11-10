@@ -1,0 +1,12 @@
+concat-conv4
+res4b22 2 1024 32 32 
+deconv4 2 512 64 64
+
+
+concat-conv5
+res5c
+deconv5 2 512 32 32
+
+
+
+
