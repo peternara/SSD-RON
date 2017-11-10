@@ -1,1 +1,0 @@
-solver.cpp:464] Check failed: result[j]->width() == 5 (32 vs. 5)
